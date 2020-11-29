@@ -81,7 +81,7 @@ else
 console.log("OOPS!! Better luck next time :)");
 console.log("--------------------------------------");}
 
-var leaderboard=["sumanth=5/10\nRajesh=4/10"];
+var leaderboard=["sumanth=5/10\nRajesh=4/10\nBharadwaj=6/10"];
 alert(chalk.inverse.bold("The leaderboard scores\n")+chalk.red.bold(leaderboard));
 console.log(chalk.green.bold("if you have crossed the highest score, \ndo dm me the screenshot, I will put your name in the leaderboard!!"));
 
